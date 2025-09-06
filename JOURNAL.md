@@ -21,3 +21,20 @@ The schematic is still quite lacking and there are a lot more specificities I ne
 
 My hierachial pages are still empty and the I haven't quite figured out how I want to flash this.
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/a691713b-f501-4e17-84c7-302e0b4d450f" />
+
+
+# September 5th: 
+
+**Time: 0.5h**
+
+I've been a bit busy so I haven't taken any screenshots or journalled properly, so I'm just writing this in bulk.
+
+I ended up switching to using a RT615BGQW (the pi pico uses the 3.3v version) and it'll provide 800mA which should be enough. 
+
+# September 6th: 
+
+**Time: 2h**
+
+
+I finsihed the schematic and tomorrow I hope to finish the pcb completely. Also, I've begun tracking my kicad time again! (I switched to linux a bit ago and didn't bother to get the kicad-wakatime plugin oops)
+
