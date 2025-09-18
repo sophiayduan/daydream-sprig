@@ -1,6 +1,8 @@
 # Daydream-Sprig
 
 #### The Daydream-Sprig is a version of the [Sprig](https://github.com/hackclub/sprig) using the bare RP2040 chip and in a vertical handheld formfactor.
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/777922ab-4dee-443a-b563-3dbf71480ce9" />
+
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/60e9e5a0-4900-402c-bd14-4b4dc905e25f" />
 
 
