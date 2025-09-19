@@ -87,8 +87,13 @@ Before I finalize this i'll change the font, finalize the silkscreen art, clean 
 Today I worked a bit more on the things I mentioned yesterday.
 Then I started going through to review every datasheet and each components LCSC part, this was very time consuming. 
 
-That's when I saw that the TP123 provides a layout guide, something I completly missed in the too much time I spent looking at that datasheet. 
+That's when I saw that the TPS123DRCR provides a layout guide, something I completly missed in the too much time I spent looking at that datasheet. 
 
 So I redid the entire power section, then continued on to move the leds, add sprig logos + silkscreen.  
 <img width="585" height="632" alt="image" src="https://github.com/user-attachments/assets/23d13a94-1c09-4452-86c8-1d34e97cefef" />
 
+# September 19th:
+
+**Time: 3h**
+
+Holy freak thank goodness I'm being suepr meticulous going through every little thing (hopefully nothing falls through the cracks) but I noticed I was using the wrong footprint for the TPS123DRCR, I was using the footprint of a step up converter I was planning on using earlier on.
