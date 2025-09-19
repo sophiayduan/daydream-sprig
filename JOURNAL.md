@@ -81,3 +81,14 @@ Before I finalize this i'll change the font, finalize the silkscreen art, clean 
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/3a69bec0-ecc8-496c-a16f-7b6918fea5ac" />
 <img height="700" alt="image" src="https://github.com/user-attachments/assets/4aee7987-b861-4f27-8509-1c2532564ead" />
 
+# September 18th:
+
+**Time: 3h**
+Today I worked a bit more on the things I mentioned yesterday.
+Then I started going through to review every datasheet and each components LCSC part, this was very time consuming. 
+
+That's when I saw that the TP123 provides a layout guide, something I completly missed in the too much time I spent looking at that datasheet. 
+
+So I redid the entire power section, then continued on to move the leds, add sprig logos + silkscreen.  
+<img width="585" height="632" alt="image" src="https://github.com/user-attachments/assets/23d13a94-1c09-4452-86c8-1d34e97cefef" />
+
