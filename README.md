@@ -18,7 +18,7 @@ All Sprig games and the Spade OS, Sprigs custom operating system, are able to ru
 - Vertical handheld form factor
 - Powered via 2xAAA
 - 4 additional GPIOS
-- Cool silkscreen art made by Erin
+- Cool silkscreen art made by Erin + stolen from the og sprig
 
 
 (unlike the original sprig, this board doesn't include a speaker due to its cost)
