@@ -5,6 +5,8 @@ Description: "Basically a sprig but with the bare rp2040 and ressembling a gameb
 Created On: "21/8/2025"
 ---
 
+#### Total time: 33.5h
+
 # August 22nd: Basic plan
 
 **Time: 1h**
@@ -30,7 +32,10 @@ I ended up switching to using a RT615BGQW (the pi pico uses the 3.3v version) an
 # Sept 6-15th:
 #### During the chunk from sept 6-15th I was working whenever I had some spare time and didn't even up documenting it (sorry reviewer!).
 
-(M time was tracked in hackatime **~14h**, not including the many hours looking at datasheets and forgetting to run kicad-wakatime)
+(My time was tracked in hackatime **~14h**, not including the many hours looking at datasheets and forgetting to run kicad-wakatime)
+
+Being very conservative (as I didn't journal properly) I'm gonna say time for this period was 16h, I definitely spent more than 2hrs on the datasheets.
+**Time: 16h**
 
 #### So here's a summary of all the things I did:
 - Realized incorporating audio is too expensive
@@ -96,4 +101,8 @@ So I redid the entire power section, then continued on to move the leds, add spr
 
 **Time: 3h**
 
-Holy freak thank goodness I'm being suepr meticulous going through every little thing (hopefully nothing falls through the cracks) but I noticed I was using the wrong footprint for the TPS123DRCR, I was using the footprint of a step up converter I was planning on using earlier on.
+Holy freak thank goodness I'm being super meticulous going through every little thing (hopefully nothing falls through the cracks) but I noticed I was using the wrong footprint for the TPS123DRCR, I was using the footprint of a step up converter I was planning on using earlier on.
+
+# Oct 27th:
+
+I'm gonna call this project done now, as the design and everything is finished. I've still gotta convert this to easyeda to get the costs covered but it'll do that in my own time.
