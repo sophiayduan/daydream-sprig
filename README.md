@@ -1,9 +1,12 @@
 # Daydream-Sprig
 
 #### The Daydream-Sprig is a version of the [Sprig](https://github.com/hackclub/sprig) using the bare RP2040 chip and in a vertical handheld formfactor.
-<img height="600" alt="image" src="https://github.com/user-attachments/assets/3c467840-dddc-4ac7-85d8-434b70204488" />
 
-<img height="600" alt="image" src="https://github.com/user-attachments/assets/60e9e5a0-4900-402c-bd14-4b4dc905e25f" />
+> *This project should work in theory but I can't know for certain until I get the PCB
+> 
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/3c467840-dddc-4ac7-85d8-434b70204488" />
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/60e9e5a0-4900-402c-bd14-4b4dc905e25f" />
 
 
 I'll be setting it up the same as the Sprig. flashing Spade OS (Sprigs custom operating system)
