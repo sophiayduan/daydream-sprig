@@ -16,12 +16,12 @@ I'll be setting it up the same as the Sprig. flashing Spade OS (Sprigs custom op
 - 6x6mm push buttons
 - Vertical handheld form factor
 - 4 additional GPIOS
-- Cool silkscreen art made by Erin + stolen from the og sprig
+- Cool silkscreen art made by Erin + some stolen from the og sprig
 
 
 (unlike the original sprig, this board doesn't include a speaker due to its cost)
 
-This project was made as a lanyard for [Daydream Ottawa](https://daydream.hackclub.com/ottawa) organizers, I didn't end up finishing it in time oops.
+This project was made as a lanyard for [Daydream Ottawa](https://daydream.hackclub.com/ottawa) organizers (to display their names and other cool stuff) but, I didn't end up finishing it in time oops.
 
 
 ## Acknowledgements
