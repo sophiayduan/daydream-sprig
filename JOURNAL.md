@@ -5,7 +5,12 @@ Description: "Basically a sprig but with the bare rp2040 and ressembling a gameb
 Created On: "21/8/2025"
 ---
 
-#### Total time: 33.5h
+~~Total time: 33.5h~~
+
+> edit: upon realizing i have 34h tracked on hackatime, then 33.5h for sure isn't my total time. I'd estimate 40h at the minimum then, but (hi reviewer!) i'd understand if you need to reduce some. 
+
+
+### Estimated total time: 40h.
 
 # August 22nd: Basic plan
 
